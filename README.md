@@ -1,2 +1,2 @@
 # bluehouse-data-visualization
-[참조]("https://www.inflearn.com/instructors/177207/courses")
+[참조]("https://www.inflearn.com/instructors/177207/courses,"google link")
